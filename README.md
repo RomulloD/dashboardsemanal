@@ -1,2 +1,1 @@
-Trying automated the report that i do 3 times in the week as study, using python libery pandas.
-Every Monday, wednesday and Friday i do some reports to mt boss, i download the gross data form a api that used by sellers, that include information about clients and the region they was attend.
+Trying to automate the report that I do 3 times a week, using the Python library pandas as a study. Every Monday, Wednesday, and Friday I do some reports for my boss. I download the raw data from an API used by sellers, which includes information about clients and the region they were attended to. I perform some data treatments to ensure a standard in the information
